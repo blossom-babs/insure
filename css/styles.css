@@ -1,0 +1,178 @@
+body{
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  font-size:16px;
+  font-family: 'Karla', ;
+
+}
+
+h4,h6{
+  font-family: 'DM Serif Display', ;
+  font-weight: 400;
+}
+
+a{
+  color:black;
+}
+
+a:hover{
+  color:black;
+}
+
+
+hr{
+  width: 150px;
+  background-color: grey;
+  margin-left: 0;
+}
+
+span{
+  border: 2px solid black;
+  padding: 10px;
+}
+
+.about{
+  background-color: #223a5e;
+  color: #fff;
+  margin-bottom: 0;
+  padding: 50px 100px 0;
+}
+
+.about-hr{
+  width: 150px;
+  background-color: #fff;
+  margin-left: 100px;
+  margin-top: 200px;
+}
+
+.about-span{
+  border: 2px solid #fff;
+  padding: 10px;
+  margin-left: 100px;
+
+}
+
+.body{
+  padding-top: 100px;
+}
+
+.details{
+  background-color: #223a5e;
+  color: #fff;
+  margin-top: 100px;
+  position: relative;
+}
+
+.details-span{
+  position: absolute;
+  left:100px;
+  z-index: 1;
+  top: 100px;
+}
+
+.details-text{
+  text-align: left;
+  padding: 100px 0;
+  font-weight: lighter;
+}
+
+.div-about{
+  background-color: #223a5e;
+  position:relative;
+  padding-top: 0;
+  padding-bottom: 0;
+  margin-top: 0;
+
+}
+
+.footer{
+  background-color: #e6e6e6;
+  margin-top: 100px;
+
+}
+
+.footer-div{
+  padding-left: 0;
+  padding-top: 10px;
+  padding-bottom: 50px;
+}
+
+.footer-span{
+  color: #666666;
+}
+
+
+.footer-row{
+  padding-top: 50px;
+  padding-bottom: 5px;
+}
+
+.footer-rule{
+  width:100%;
+  background-color: #666666;
+}
+
+h3.header-text{
+  padding-top: 0;
+}
+
+.header-text{
+  font-size: 50px;
+  font-family: 'DM Serif Display', ;
+}
+
+.icon{
+  color: #223a5e;
+  padding: 0 10px 10px;
+  float:right;
+}
+
+.images{
+    padding: 0;
+}
+
+.images-icon{
+  padding-bottom: 50px;
+}
+
+.image-top{
+  float:right;
+  position: relative;
+  padding-right: 0;
+  z-index: 1;
+
+}
+
+.image-bottom{
+  position: absolute;
+  margin-top: 300px;
+
+}
+
+.image-bottom-left{
+  float:left;
+  position: relative;
+  margin-bottom: -300px;
+}
+
+.image-details{
+  position: relative;
+
+}
+
+
+.white-fam{
+  color: #fff;
+}
+
+.white-section{
+  padding: 20px 200px;
+}
+
+.white-section-z{
+  margin-top:0;
+  position: relative;
+  padding-top: 300px;
+
+}
